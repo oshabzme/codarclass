@@ -1,5 +1,5 @@
-# 🏥 Hospital Management System (HMS)
-
+tunde97git add.# 🏥 Hospital Management System (HMS)
+gbemisola97
 A comprehensive and scalable Hospital Management System designed to streamline hospital operations, improve workflow efficiency, and enhance patient care.
 This system provides modules for managing patients, staff, appointments, billing, inventory, and more — with a clean, modern architecture that supports both small and large healthcare facilities.
 
